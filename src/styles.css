@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+}
+
+.input-bar {
+  height: 32px;
+  align-self: center;
+  margin-left: 30px;
+  width: 50%;
+}
+
+.button {
+  background-color: lightcoral;
+  border: 2px lightseagreen solid;
+  height: 32px;
+  width: 116px;
+  margin-left: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}

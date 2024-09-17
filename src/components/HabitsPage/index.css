@@ -1,0 +1,21 @@
+.list-container {
+  background-color: lightblue;
+  border: 1px blue solid;
+  height: 32px;
+  margin-bottom: 10px;
+  font-family: Roboto;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.list-element {
+  list-style-type: none;
+}
+
+.button1 {
+  border: 2px lightseagreen solid;
+  margin-bottom: 5px;
+}
